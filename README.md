@@ -1,16 +1,17 @@
 # Data-Science
+Team members:  Burhan Uddin 
 here i show a simple idea of
 
-naive bayes classification,
+1)naive bayes classification,
 
-converting numerical value to categorical
+2)converting numerical value to categorical
 
-Pearson chi- square test to find significant attributes for the classification
+3)Pearson chi- square test to find significant attributes for the classification
 
-missing value finding
+4)missing value finding
 
-train & test (80/20)
+5)train & test (80/20)
 
-10 fold cross validation
+6)10 fold cross validation
 
-confusion matrix , recall, precisions, F-measure
+7)confusion matrix , recall, precisions, F-measure
